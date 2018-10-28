@@ -1,0 +1,7 @@
+d:\OneDrive\Documents\Projects\AI_Lab2\AI_Lab2\bin\Release\AI_Lab2.exe.config
+d:\OneDrive\Documents\Projects\AI_Lab2\AI_Lab2\bin\Release\AI_Lab2.exe
+d:\OneDrive\Documents\Projects\AI_Lab2\AI_Lab2\bin\Release\AI_Lab2.pdb
+d:\OneDrive\Documents\Projects\AI_Lab2\AI_Lab2\obj\Release\AI_Lab2.csprojAssemblyReference.cache
+d:\OneDrive\Documents\Projects\AI_Lab2\AI_Lab2\obj\Release\AI_Lab2.csproj.CoreCompileInputs.cache
+d:\OneDrive\Documents\Projects\AI_Lab2\AI_Lab2\obj\Release\AI_Lab2.exe
+d:\OneDrive\Documents\Projects\AI_Lab2\AI_Lab2\obj\Release\AI_Lab2.pdb
